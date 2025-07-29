@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hello word</h1>
+      <h3>Hello Anh Hai</h3>
     </>
   )
 }
