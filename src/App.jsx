@@ -10,7 +10,7 @@ function App() {
     <>
       <h1>Hello word</h1>
       <h3>Hello Anh Hai</h3>
-      <h3>Hello Bot</h3>
+      <h3>Hello Hoa</h3>
     </>
   )
 }
